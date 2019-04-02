@@ -1,4 +1,5 @@
 # React frontend for the esports DApp
+
 * The frontend currently is unable to connect to a browser plugin wallet ie. MetaMask. 
     * Instead you need to enter your wallet's private key to make bets
 * The frontend lists all not_started matches.
@@ -28,8 +29,11 @@
 Contents of .env file:
 
 REACT_APP_BACKEND_BASEURL = {DApp centralized backend url}
+
 REACT_APP_BETFACTORY_ADDRESS = {smart contract's address}
+
 REACT_APP_ETH_URL = {Ethereum url}
+
 
 ![DApp architecture](./docs/esports_frontend.png)
 
