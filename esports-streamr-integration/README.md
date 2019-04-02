@@ -26,13 +26,16 @@
         * https://developers.pandascore.co/doc/
 
 
-Contents of the .env file
+# .env
 
 STREAMR_API_KEY = {YOUR_STREAMR_API_KEY}
 
 PANDASCORE_TOKEN = {YOUR_PANDASCORE_API_TOKEN}
 
 VIDEOGAME = {csgo, dota2, lol, ow}
+
+
+# Architecture
 
 ![DApp architecture](./docs/esports_streamr_integration.png)
 

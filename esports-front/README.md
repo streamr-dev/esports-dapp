@@ -26,7 +26,7 @@
             * As mentioned before, the match pools could also be sent to Streamr. If the pools would be implemented like this then the popups could just listen to a stream that contains the bets
 
 
-Contents of .env file:
+# .env
 
 REACT_APP_BACKEND_BASEURL = {DApp centralized backend url}
 
@@ -34,6 +34,7 @@ REACT_APP_BETFACTORY_ADDRESS = {smart contract's address}
 
 REACT_APP_ETH_URL = {Ethereum url}
 
+# Architecture
 
 ![DApp architecture](./docs/esports_frontend.png)
 

@@ -29,6 +29,8 @@
 * Payouts should be assigned so that only the owner of the app can deploy the function calls.
     * If non-owner users call the function with a valid betId the value that they send will be transfered to the bets owner.
 
+# Architecture
+
 ![DApp architecture](./docs/esports_smartcontract.png)
 
 [Frontend]()

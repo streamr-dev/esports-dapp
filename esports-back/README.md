@@ -47,7 +47,7 @@
         * For data of a match and it’s betting pool
 
 
-Contents of .env file:
+# .env
 
 STREAMR_API_KEY = {Your streamr API key}
 
@@ -84,6 +84,8 @@ BETFACTORY_ADDRESS = {Smart contract's address}
 METAMASK_PRIVATE_KEY = {wallet private key for payouts}
 
 VIDEOGAME={csgo, dota2, lol, ow}
+
+# Architecture
 
 ![DApp architecture](./docs/esports_back.png)
 
