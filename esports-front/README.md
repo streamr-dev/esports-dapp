@@ -38,8 +38,8 @@ REACT_APP_ETH_URL = {Ethereum url}
 
 ![DApp architecture](./docs/esports_frontend.png)
 
-[Centralized backend]()
-[Streamr integration]()
-[Smart contracts]()
+[Centralized backend](../esports-back)
+[Streamr integration](../esports-streamr-integration)
+[Smart contracts](../esports-ethereum)
 
 ### There is no running example of the DApp due to the gambling laws in Finland!

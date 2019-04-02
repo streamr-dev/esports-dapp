@@ -89,8 +89,8 @@ VIDEOGAME={csgo, dota2, lol, ow}
 
 ![DApp architecture](./docs/esports_back.png)
 
-[Frontend]()
-[Streamr integration]()
-[Smart contracts]()
+[Frontend](../esports-frontend)
+[Streamr integration](../esports-streamr-integration)
+[Smart contracts](../esports-ethereum)
 
 ### There is no running example of the DApp due to the gambling laws in Finland!

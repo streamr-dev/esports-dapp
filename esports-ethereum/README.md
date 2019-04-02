@@ -33,8 +33,8 @@
 
 ![DApp architecture](./docs/esports_smartcontract.png)
 
-[Frontend]()
-[Streamr integration]()
-[Centralized backend]()
+[Frontend](../esports-frontend)
+[Streamr integration](../esports-streamr-integration)
+[Centralized backend](../esports-back)
 
 ### There is no running example of the DApp due to the gambling laws in Finland!
