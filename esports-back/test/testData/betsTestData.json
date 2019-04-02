@@ -1,0 +1,57 @@
+[
+    
+    {
+        "match_id": 1,
+        "bet_id": 0,
+        "bet": 100,
+        "team_id": 2
+    },
+    {
+        "match_id": 1,
+        "bet_id": 1,
+        "bet": 200,
+        "team_id": 2
+    },
+    {
+        "match_id": 1,
+        "bet_id": 2,
+        "bet": 100,
+        "team_id": 3
+    },
+    {
+        "match_id": 1,
+        "bet_id": 3,
+        "bet": 150,
+        "team_id": 2
+    },
+    {
+        "match_id": 1,
+        "bet_id": 4,
+        "bet": 120,
+        "team_id": 3
+    },
+    {
+        "match_id": 1,
+        "bet_id": 5,
+        "bet": 3000,
+        "team_id": 2
+    },
+    {
+        "match_id": 1,
+        "bet_id": 6,
+        "bet": 2000,
+        "team_id": 3
+    },
+    {
+        "match_id": 1,
+        "bet_id": 7,
+        "bet": 111,
+        "team_id": 3
+    },
+    {
+        "match_id": 1,
+        "bet_id": 8,
+        "bet": 0,
+        "team_id": 3
+    }
+]

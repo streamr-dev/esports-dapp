@@ -1,0 +1,44 @@
+{
+    "teams": [
+        {
+            "name": "123",
+            "id": 123
+        },
+        {
+            "name": "1234",
+            "id": 122
+        }
+    ],
+    "bets": [
+        {
+            "bet": 2,
+            "bet_id": 23,
+            "team_id": 123,
+            "match_id": 1
+        },
+        {
+            "bet": 12312,
+            "bet_id": 24,
+            "team_id": 122,
+            "match_id": 1
+        },
+        {
+            "bet": 3333,
+            "bet_id": 25,
+            "team_id": 122,
+            "match_id": 1
+        },
+        {
+            "bet": 2001,
+            "bet_id": 26,
+            "team_id": 123,
+            "match_id": 1
+        },
+        {
+            "bet": 100,
+            "bet_id": 27,
+            "team_id": 123,
+            "match_id": 1
+        }
+    ]
+}

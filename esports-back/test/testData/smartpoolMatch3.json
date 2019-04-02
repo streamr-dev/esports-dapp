@@ -1,0 +1,15 @@
+{
+    "id": 3, 
+    "name": "test match 3",
+    "begin_at": "2019-03-29T11:00:00.000Z",
+    "teams": [
+        {
+            "name": "team1",
+            "id": 1
+        },
+        {
+            "name": "team2",
+            "id": 2
+        }
+    ]
+}

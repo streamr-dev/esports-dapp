@@ -1,0 +1,26 @@
+{
+  "name": "esports-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cross-env NODE_ENV=test node_modules/.bin/jest --verbose",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^7.0.0",
+    "ethers": "^4.0.27",
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "lokijs": "^1.5.6",
+    "streamr-client": "^0.12.2"
+  },
+  "devDependencies": {
+    "cross-env": "^5.2.0",
+    "jest": "^24.5.0",
+    "supertest": "^4.0.2"
+  }
+}

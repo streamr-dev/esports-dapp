@@ -1,0 +1,177 @@
+{
+    "begin_at": null,
+    "finished": null,
+    "id": 2,
+    "length": null,
+    "map": null,
+    "match": {
+      "begin_at": null,
+      "draw": true,
+      "games": [
+        {
+          "begin_at": null,
+          "finished": null,
+          "id": 1,
+          "length": null,
+          "match_id": 1,
+          "position": 1,
+          "winner": {
+            "id": null,
+            "type": null
+          },
+          "winner_type": null
+        }
+      ],
+      "id": 1,
+      "league": {
+        "id": 1,
+        "image_url": null,
+        "live_supported": true,
+        "modified_at": null,
+        "name": "string",
+        "slug": "string",
+        "url": null
+      },
+      "league_id": 1,
+      "live": {
+        "opens_at": null,
+        "supported": true,
+        "url": null
+      },
+      "match_type": null,
+      "modified_at": null,
+      "name": "string",
+      "number_of_games": null,
+      "opponents": [
+        {
+          "opponent": {
+            "first_name": null,
+            "hometown": null,
+            "id": 1,
+            "image_url": null,
+            "last_name": null,
+            "name": "string",
+            "role": null,
+            "slug": null
+          },
+          "type": "Player"
+        }
+      ],
+      "results": [
+        {
+          "score": 0,
+          "team_id": 1
+        }
+      ],
+      "serie": {
+        "begin_at": null,
+        "description": null,
+        "end_at": null,
+        "full_name": "string",
+        "id": 1,
+        "league_id": 1,
+        "modified_at": null,
+        "name": null,
+        "prizepool": null,
+        "season": null,
+        "slug": "string",
+        "winner_id": null,
+        "winner_type": null,
+        "year": 1912
+      },
+      "serie_id": 1,
+      "slug": null,
+      "status": "not_started",
+      "tournament": {
+        "begin_at": null,
+        "end_at": null,
+        "id": 1,
+        "league_id": 1,
+        "modified_at": null,
+        "name": "string",
+        "serie_id": 1,
+        "slug": "string",
+        "winner_id": null,
+        "winner_type": null
+      },
+      "tournament_id": 1,
+      "videogame": {
+        "id": 1,
+        "name": "LoL",
+        "slug": "league-of-legends"
+      },
+      "videogame_version": null,
+      "winner": null,
+      "winner_id": null
+    },
+    "match_id": 1,
+    "players": [
+      {
+        "adr": 0,
+        "assists": 0,
+        "deaths": 0,
+        "game_id": 1,
+        "headshots": 0,
+        "kills": 0,
+        "opponent": {
+          "first_name": null,
+          "hometown": null,
+          "id": 1,
+          "image_url": null,
+          "last_name": null,
+          "name": "string",
+          "role": null,
+          "slug": null
+        },
+        "player": {
+          "first_name": null,
+          "hometown": null,
+          "id": 1,
+          "image_url": null,
+          "last_name": null,
+          "name": "string",
+          "role": null,
+          "slug": null
+        },
+        "team": {
+          "acronym": null,
+          "id": 1,
+          "image_url": null,
+          "name": "string",
+          "slug": null
+        }
+      }
+    ],
+    "position": 1,
+    "rounds": [
+      {
+        "ct": 1,
+        "outcome": "eliminated",
+        "round": 1,
+        "terrorists": 1,
+        "winner_side": "ct",
+        "winner_team": 1
+      }
+    ],
+    "teams": [
+      {
+        "acronym": null,
+        "id": 1,
+        "image_url": null,
+        "name": "string",
+        "slug": null
+      },
+      {
+        "acronym": null,
+        "id": 2,
+        "image_url": null,
+        "name": "tema",
+        "slug": null
+      }
+    ],
+    "winner": {
+      "id": null,
+      "type": null
+    },
+    "winner_type": null
+  }

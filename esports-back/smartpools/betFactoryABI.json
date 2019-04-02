@@ -1,0 +1,142 @@
+[
+    {
+      "constant": true,
+      "inputs": [
+        {
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "name": "bets",
+      "outputs": [
+        {
+          "name": "betValue",
+          "type": "uint256"
+        },
+        {
+          "name": "team_id",
+          "type": "uint256"
+        },
+        {
+          "name": "match_id",
+          "type": "uint256"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [
+        {
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "name": "closingTimestamp",
+      "outputs": [
+        {
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": true,
+          "name": "matchId",
+          "type": "uint256"
+        },
+        {
+          "indexed": false,
+          "name": "betId",
+          "type": "uint256"
+        },
+        {
+          "indexed": false,
+          "name": "teamId",
+          "type": "uint256"
+        },
+        {
+          "indexed": false,
+          "name": "betValue",
+          "type": "uint256"
+        }
+      ],
+      "name": "NewBet",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": false,
+          "name": "win",
+          "type": "uint256"
+        },
+        {
+          "indexed": false,
+          "name": "winner",
+          "type": "address"
+        }
+      ],
+      "name": "WinPayedOut",
+      "type": "event"
+    },
+    {
+      "constant": false,
+      "inputs": [
+        {
+          "name": "_match_id",
+          "type": "uint256"
+        },
+        {
+          "name": "closingTime",
+          "type": "uint256"
+        }
+      ],
+      "name": "setTimestamp",
+      "outputs": [],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [
+        {
+          "name": "_match_id",
+          "type": "uint256"
+        },
+        {
+          "name": "_team_id",
+          "type": "uint256"
+        }
+      ],
+      "name": "newBet",
+      "outputs": [],
+      "payable": true,
+      "stateMutability": "payable",
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [
+        {
+          "name": "betId",
+          "type": "uint256"
+        }
+      ],
+      "name": "payOut",
+      "outputs": [],
+      "payable": true,
+      "stateMutability": "payable",
+      "type": "function"
+    }
+  ]
