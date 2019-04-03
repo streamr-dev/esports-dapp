@@ -33,7 +33,7 @@
 
 ![DApp architecture](./docs/esports_smartcontract.png)
 
-[Frontend](../esports-frontend)
+[Frontend](../esports-front)
 [Streamr integration](../esports-streamr-integration)
 [Centralized backend](../esports-back)
 

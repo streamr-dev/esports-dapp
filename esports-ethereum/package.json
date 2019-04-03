@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "etherlime": "^1.0.4",
+    "etherlime": "^1.0.6",
     "remixd": "^0.1.8-alpha.6"
   }
 }

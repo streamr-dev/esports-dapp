@@ -41,7 +41,7 @@ VIDEOGAME = {csgo, dota2, lol, ow}
 
 [Centralized backend](../esports-back)
 
-[Frontend](../esports-frontend)
+[Frontend](../esports-front)
 
 [Smart contracts](../esports-ethereum)
 

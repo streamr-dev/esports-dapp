@@ -89,7 +89,7 @@ VIDEOGAME={csgo, dota2, lol, ow}
 
 ![DApp architecture](./docs/esports_back.png)
 
-[Frontend](../esports-frontend)
+[Frontend](../esports-front)
 [Streamr integration](../esports-streamr-integration)
 [Smart contracts](../esports-ethereum)
 
